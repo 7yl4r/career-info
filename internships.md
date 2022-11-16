@@ -9,6 +9,8 @@
 * NASA
 * WILLIAM M. LAPENTA STUDENT INTERNSHIP (NOAA)
 
-# links
+## Portuguese
+* [AIR Centre scholarship](https://www.aircentre.org/Scholarship/#toggle-id-1)
+
+# other links
 * [GoMA job postings](https://gulfofmexicoalliance.org/announcements/job-postings/)
-* 
